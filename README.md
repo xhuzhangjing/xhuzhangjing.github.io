@@ -7,6 +7,7 @@
 
 # 硬件学习
 * [利用mos管做延时及缓启动](https://github.com/xhuzhangjing/BLOGS/issues/3)
+* [利用RC及三极管做上电延时输出](https://github.com/xhuzhangjing/BLOGS/issues/4)
 
 
 
